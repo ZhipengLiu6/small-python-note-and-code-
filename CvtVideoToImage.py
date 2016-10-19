@@ -11,7 +11,7 @@ import time
 import os, sys
 from GetSubfileName import *
 import subprocess
-import ti
+import time
 
 #-------------------------setting parameter--------------------------
 pathRGBVideo = '/media/zhipengliu/backupNHCI/zhipengliu/dataset/convertContinousToIsoGestrueTrain'
